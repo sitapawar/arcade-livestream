@@ -25,7 +25,7 @@ export default function Home() {
           </Text>
           <HomeActions />
           <Separator orientation="horizontal" size="4" className="my-2" />
-          <Text as="p" size="2">
+          {/* <Text as="p" size="2">
             Feel free to clone this full-stack NextJS app{" "}
             <Link
               href="https://github.com/livekit-examples/livestream"
@@ -42,8 +42,8 @@ export default function Home() {
               iOS
             </Link>{" "}
             and <Link href="https://github.com/livekit-examples/android-livestream" target="_blank">Android</Link> clients, which are compatible with
-            this web app! */}
-          </Text>
+            this web app! 
+          </Text> */}
         </Flex>
       </Container>
     </main>

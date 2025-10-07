@@ -12,9 +12,9 @@ export function HomeActions() {
         <BroadcastDialog>
           <Button size="3">Stream from browser</Button>
         </BroadcastDialog>
-        <IngressDialog>
+        {/* <IngressDialog>
           <Button size="3">Stream from OBS</Button>
-        </IngressDialog>
+        </IngressDialog> */}
       </Flex>
       <Text size="1">- OR -</Text>
       <JoinDialog>

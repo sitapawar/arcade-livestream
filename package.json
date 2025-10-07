@@ -17,9 +17,9 @@
     "jsonwebtoken": "^9.0.2",
     "livekit-client": "^1.15.2",
     "livekit-server-sdk": "^1.2.7",
-    "next": "^15.5.4",
-    "react": "^19.2.0",
-    "react-dom": "^19.2.0",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "next": "14.2.12",
     "tailwind-merge": "^2.0.0"
   },
   "devDependencies": {
